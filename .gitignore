@@ -1,0 +1,7 @@
+/tabular_data_train
+/tabular_data_test
+/test_pred.csv
+/test_data
+/train_data
+*.txt
+*.csv
