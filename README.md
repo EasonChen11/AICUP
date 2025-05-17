@@ -28,3 +28,7 @@ python baseline.py
 ```
 
 第一次執行須執行`data_generate`，生成特徵檔案。
+
+## false data
+
+不確定是不是我的問題，測試集中3211的資料開根號會錯誤，所以我在baseline code中將3211的資料跳過，如果要繳交csv，須自己補上3211的資料。
